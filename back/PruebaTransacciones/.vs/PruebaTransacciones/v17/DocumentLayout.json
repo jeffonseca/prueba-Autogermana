@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\controllers\\authcontrolerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\controllers\\authcontrolerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\data\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\data\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\services\\transaccionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\services\\transaccionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\dto\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\dto\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|c:\\users\\jhonf\\source\\repos\\pruebatransacciones\\pruebatransacciones\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3DAC25-178F-4D2D-8847-8341DBE75880}|PruebaTransacciones\\PruebaTransacciones.csproj|solutionrelative:pruebatransacciones\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthControlerr.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Controllers\\AuthControlerr.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Controllers\\AuthControlerr.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Controllers\\AuthControlerr.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Controllers\\AuthControlerr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T03:16:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Services\\AuthServices.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwBIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T03:11:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Interfaces\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Interfaces\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Interfaces\\IAuthServices.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Interfaces\\IAuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T03:10:36.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Data\\UserDto.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Data\\UserDto.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Data\\UserDto.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Data\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T03:19:35.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaTransacciones\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T04:31:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Controllers\\TransaccionController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:46:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransaccionServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Services\\TransaccionServices.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Services\\TransaccionServices.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Services\\TransaccionServices.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Services\\TransaccionServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:29:31.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Interfaces\\IServices.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Interfaces\\IServices.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Interfaces\\IServices.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Interfaces\\IServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:25:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\appsettings.json",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\appsettings.json",
+              "RelativeToolTip": "PruebaTransacciones\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T02:22:19.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Dto\\Transaccion.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Dto\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Dto\\Transaccion.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Dto\\Transaccion.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:17:01.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Program.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Program.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:11:54.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\WeatherForecast.cs",
+              "RelativeToolTip": "PruebaTransacciones\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:33:17.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTransacciones\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\jhonf\\source\\repos\\PruebaTransacciones\\PruebaTransacciones\\Data\\DbContext.cs",
+              "RelativeToolTip": "PruebaTransacciones\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:14:06.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

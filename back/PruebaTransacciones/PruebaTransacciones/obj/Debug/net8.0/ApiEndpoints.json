@@ -1,0 +1,147 @@
+[
+  {
+    "ContainingType": "PruebaTransacciones.Controllers.AuthControlerr",
+    "Method": "login",
+    "RelativePath": "api/AuthControlerr/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "PruebaTransacciones.Data.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTransacciones.Controllers.TransaccionController",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/Transaccion/CreateTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaccion",
+        "Type": "PruebaTransacciones.Dto.Transaccion\u002BTransacciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PruebaTransacciones.Dto.Transaccion",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PruebaTransacciones.Controllers.TransaccionController",
+    "Method": "DeleteTransaccion",
+    "RelativePath": "api/Transaccion/DeleteTransaccion/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PruebaTransacciones.Dto.Transaccion",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PruebaTransacciones.Controllers.TransaccionController",
+    "Method": "GetAllTransacciones",
+    "RelativePath": "api/Transaccion/GetAllTransacciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PruebaTransacciones.Dto.Transaccion, PruebaTransacciones, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PruebaTransacciones.Controllers.TransaccionController",
+    "Method": "GetTransaccionById",
+    "RelativePath": "api/Transaccion/GetTransaccionById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PruebaTransacciones.Dto.Transaccion",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PruebaTransacciones.Controllers.TransaccionController",
+    "Method": "UpdateTransaccion",
+    "RelativePath": "api/Transaccion/UpdateTransaccion/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "transaccion",
+        "Type": "PruebaTransacciones.Dto.Transaccion\u002BTransacciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PruebaTransacciones.Dto.Transaccion",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
