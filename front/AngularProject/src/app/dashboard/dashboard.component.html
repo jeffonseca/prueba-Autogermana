@@ -1,0 +1,28 @@
+<!-- dashboard.component.html -->
+<div>
+    <h2>Dashboard</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>clienteID</th>
+          <th>concesionarioID</th>
+          <th>fechaVenta</th>
+          <th>precioVenta</th>
+          <th>transaccionID</th>
+          <th>vehiculoID</th>
+          <!-- Agrega más columnas según la estructura de tus datos -->
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let transaccion of transacciones">
+          <td>{{ transaccion.clienteID }}</td>
+          <td>{{ transaccion.concesionarioID }}</td>
+          <td>{{ transaccion.precioVenta }}</td>
+          <td>{{ transaccion.transaccionID }}</td>
+          <td>{{ transaccion.vehiculoID }}</td>
+          <!-- Agrega más celdas según la estructura de tus datos -->
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
